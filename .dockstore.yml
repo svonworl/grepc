@@ -5,3 +5,5 @@ tools:
      publish: true
      testParameterFiles:
          - /test.json
+     authors:
+         - name: "Mister Unique"
